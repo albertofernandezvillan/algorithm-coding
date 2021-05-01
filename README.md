@@ -10,5 +10,6 @@ Just a collection of algorithms problems from improving my coding ability and al
 * Main algorithms: https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 * 20+ basic Algorithms Problems from Coding Interviews: https://dev.to/javinpaul/20-basic-algorithms-problems-from-coding-interviews-4o76
 
-
+quick links
 Check top interview questions: https://leetcode.com/explore/interview/card/top-interview-questions-easy/
+Check this repo: https://github.com/chiphuyen/coding-exercises
