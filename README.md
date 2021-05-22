@@ -5,6 +5,9 @@ Just a collection of algorithms problems from improving my coding ability and al
 
 * **Two Sum**: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. https://github.com/albertofernandezvillan/algorithm-coding/blob/main/two_sum.ipynb
 
+## Some quick notes
+* [Why start + (end – start)/2 is preferrable method for calculating middle of an array over (start + end)/2 ?](https://www.geeksforgeeks.org/start-end-start2-preferrable-method-calculating-middle-array-start-end2/): integer overflow
+
 ## Other link & resources
 * leetcode. https://github.com/doocs/leetcode. 😏 LeetCode solutions in any programming language
 * Main algorithms: https://www.geeksforgeeks.org/fundamentals-of-algorithms/
