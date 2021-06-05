@@ -15,3 +15,6 @@ Just a collection of algorithms problems from improving my coding ability and al
 * 20+ basic Algorithms Problems from Coding Interviews: https://dev.to/javinpaul/20-basic-algorithms-problems-from-coding-interviews-4o76
 * Check top interview questions: https://leetcode.com/explore/interview/card/top-interview-questions-easy/
 * Check this repo: https://github.com/chiphuyen/coding-exercises
+* break-the-ice-with-python. The repository is about 100+ python programming exercise problem discussed, explained, and solved in different ways. https://github.com/darkprinx/break-the-ice-with-python
+
+
