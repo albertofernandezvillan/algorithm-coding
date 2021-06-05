@@ -9,6 +9,7 @@ Just a collection of algorithms problems from improving my coding ability and al
 * [Why start + (end – start)/2 is preferrable method for calculating middle of an array over (start + end)/2 ?](https://www.geeksforgeeks.org/start-end-start2-preferrable-method-calculating-middle-array-start-end2/): integer overflow
 
 ## Other link & resources
+* leetcode. https://github.com/ryancheunggit/leetcode. Host stuff for my YouTube videos on solving Leetcode problems ...
 * leetcode. https://github.com/doocs/leetcode. 😏 LeetCode solutions in any programming language
 * Main algorithms: https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 * 20+ basic Algorithms Problems from Coding Interviews: https://dev.to/javinpaul/20-basic-algorithms-problems-from-coding-interviews-4o76
