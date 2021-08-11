@@ -7,6 +7,7 @@ Just a collection of algorithms problems from improving my coding ability and al
 
 ## Check:
  * Tree question pattern ||2021 placement: https://leetcode.com/discuss/study-guide/1337373/Tree-question-pattern-oror2021-placement
+ * Linked list top questions: https://medium.com/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093
 
 ## Some quick notes
 * [Why start + (end – start)/2 is preferrable method for calculating middle of an array over (start + end)/2 ?](https://www.geeksforgeeks.org/start-end-start2-preferrable-method-calculating-middle-array-start-end2/): integer overflow
