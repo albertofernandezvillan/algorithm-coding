@@ -22,7 +22,7 @@ Just a collection of algorithms problems from improving my coding ability and al
 * Check this repo: https://github.com/chiphuyen/coding-exercises
 * break-the-ice-with-python. The repository is about 100+ python programming exercise problem discussed, explained, and solved in different ways. https://github.com/darkprinx/break-the-ice-with-python
 
-# Data structures implementation:
+## Data structures implementation:
 * Implementing a Hash Map in Python: https://www.geeksforgeeks.org/hash-map-in-python/
 
 
