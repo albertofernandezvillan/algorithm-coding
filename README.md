@@ -6,6 +6,7 @@ Just a collection of algorithms problems from improving my coding ability and al
 * **Two Sum**: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. https://github.com/albertofernandezvillan/algorithm-coding/blob/main/two_sum.ipynb
 
 ## Check:
+ * Python - Data structures Tutorial: https://www.tutorialspoint.com/python_data_structure/index.htm
  * Tree question pattern ||2021 placement: https://leetcode.com/discuss/study-guide/1337373/Tree-question-pattern-oror2021-placement
  * Linked list top questions: https://medium.com/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093
 
