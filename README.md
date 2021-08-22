@@ -25,4 +25,8 @@ Just a collection of algorithms problems from improving my coding ability and al
 ## Data structures implementation:
 * Implementing a Hash Map in Python: https://www.geeksforgeeks.org/hash-map-in-python/
 
+# Other links
+
+* machine-learning-interview: https://github.com/albertofernandezvillan/machine-learning-interview
+
 
