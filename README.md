@@ -28,5 +28,7 @@ Just a collection of algorithms problems from improving my coding ability and al
 # Other links
 
 * machine-learning-interview: https://github.com/albertofernandezvillan/machine-learning-interview
+* data-science-interviews: https://github.com/alexeygrigorev/data-science-interviews
+* machine-learning-interview: https://github.com/khangich/machine-learning-interview
 
 
