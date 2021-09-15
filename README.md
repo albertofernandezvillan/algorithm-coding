@@ -14,6 +14,8 @@ Just a collection of algorithms problems from improving my coding ability and al
  * Top Interview Questions: https://leetcode.com/explore/interview/card/top-interview-questions-easy/
  * Top 150 best practice LeetCode’s problems sorted by difficulties: https://learntocodetogether.com/top-150-leetcodes-best-practice-problems/
  * 60 LeetCode problems to solve for coding interview: https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e
+ * Hands-on Algorithmic Problem Solving. https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving/
+ * Tech Interview Handbook. https://github.com/yangshun/tech-interview-handbook
 
 ## Some quick notes
 * [Why start + (end – start)/2 is preferrable method for calculating middle of an array over (start + end)/2 ?](https://www.geeksforgeeks.org/start-end-start2-preferrable-method-calculating-middle-array-start-end2/): integer overflow
